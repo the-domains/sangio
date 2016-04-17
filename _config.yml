@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.6684588
+  brandStrength: 0.5470095
+  lightness: 0.8243728
+  rhythmicContrast: 0.5125448
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+typography_spectrum: 0.6577061
+name: SanGio
