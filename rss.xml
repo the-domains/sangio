@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SanGio]]></title>
+        <description><![CDATA[SanGio]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 17 Apr 2016 05:15:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Visual Vocal is a breakthrough new dolor sit amet, consectetur adipiscing elit. Sed ullamcorper nec dolor sed varius. Praesent magna dui, pharetra id urna id, tristique varius orci. Fusce a pretium quam. Sed eget metus ut mauris iaculis faucibus. Suspendisse pulvinar erat et quam pellentesque pharetra. In aliquam sapien ut feugiat eleifend. In pharetra quam at dui ultrices imperdiet. Phasellus ornare mauris ac feugiat hendrerit. Nam at faucibus tortor, accumsan tincidunt odio. Maecenas at lacus tincidunt massa luctus scelerisque sit amet ac tellus. Curabitur bibendum sodales nisl sit amet tincidunt. Vivamus hendrerit eros in varius egestas. Duis scelerisque dictum tellus, at porttitor eros. Suspendisse feugiat vel arcu et congue. Curabitur pulvinar commodo dolor sed lobortis.</p>]]></description>
+            <link>undefinedvisual-vocal-is-a-breakthrough-new/index.html</link>
+            <guid isPermaLink="false">ac842b74-fe34-46dc-b396-0fc796891c6d</guid>
+            <pubDate>Sun, 17 Apr 2016 05:15:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
