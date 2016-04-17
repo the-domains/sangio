@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.6577061
 color:
-  saturation: 0.6684588
+  saturation: 0.6630824
   brandStrength: 0.5470095
-  lightness: 0.8243728
-  rhythmicContrast: 0.5125448
+  lightness: 0.8172043
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-typography_spectrum: 0.6577061
+  rhythmicContrast: 0.5125448
+layout_spectrum: 1
 name: SanGio
